@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actuellement, je développe des projets Full-Stack et j’explore de nouvelles technos.<br>👯 Toujours partant pour coder ensemble sur des projets web, open-source ou défis tech !<br>🎓 Etudiant en alternance à la 3W Academy (bac+2).<br>🌱 En apprentissage constant !<br>💬 Si ça parle React, Node.js ou dev web en général, je suis toujours partant !<br>⚡ Je teste, je casse, je recommence… et j’apprends à chaque étape.
+🔭 Actuellement, je développe des projets Full-Stack (React, Node.js) et j’explore de nouvelles technos.<br>👯 Toujours partant pour coder ensemble sur des projets web, open-source ou défis tech !<br>🎓 Etudiant en alternance à la 3W Academy (bac+2).<br>🌱 En apprentissage constant !<br>⚡ Je teste, je casse, je recommence… et j’apprends à chaque étape.
 
 
 ## 🌐 Socials:
