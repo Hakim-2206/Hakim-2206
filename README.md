@@ -46,6 +46,10 @@
   </p>
   <br>
 
+  <h2>🏆 Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
+
+![Achievement Badge](https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-blue?logo=github)
+
 <h2>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
   <table>
