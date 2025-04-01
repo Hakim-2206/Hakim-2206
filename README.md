@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://github.com/Hakim-2206">
-    <img src="https://i.imgur.com/QBXwSQQ.gif" alt="HEADER IMAGE" width="100%" />
+    <img src="https://i.imgur.com/QBXwSQQ.gif" alt="HEADER IMAGE" width="50%" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/yDUqQSO.png" alt="Hibou" width="200" />
 </p>
-
-<h1 align="center">Hello World 👋</h1>
 <h3 align="center">Bienvenue sur mon profil GitHub !</h3>
 
 ## 💫 À propos de moi :
