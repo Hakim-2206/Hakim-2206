@@ -74,7 +74,7 @@
   <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
   <p align="center">
     <a href="https://github.com/Hakim-2206">
-      <img align="center" src="https://streak-stats.demolab.com/?user=Hakim-2206&theme=dark&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hakim-2206&theme=dark&mode=weekly&fire=FFEB95&background=0%2C000000%2C441350&ring=FFEB95)](https://git.io/streak-stats)
     </a>
   </p>
 </td>
