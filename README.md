@@ -69,13 +69,13 @@
 <h2>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
   <a href="mailto:hakim.hakim2206@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="hakim.hakim2206@gmail.com" style="margin-bottom: 5px;" />
+    <img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width=50 height=50 alt="hakim.hakim2206@gmail.com" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.github.com/Hakim-2206" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="Hakim-2206" style="margin-bottom: 5px;" />
+  <a href="https://www.twitch.tv/hako_tak" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=XTmPgiLA41sk&format=png&color=000000" width=50 height=50 alt="Hakim-2206" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/hakimzaabi/" target="_blank">
-    <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://img.icons8.com/?&id=13930&format=png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <br>
 
