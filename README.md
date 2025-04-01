@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://i.imgur.com/vpAawPR.png" alt="Hakim Banner Image">
 </p>
-
+<br>
+<p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer" />
+  </p>
 <table>
   <tr>
     <td valign="top" width="60%">
