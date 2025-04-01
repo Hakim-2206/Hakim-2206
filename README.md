@@ -1,65 +1,89 @@
+<p align="center">
+  <img src="https://i.imgur.com/vpAawPR.png" alt="Hakim Banner Image">
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h1>
+        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses Emoji" /> I'm Hakim!
+      </h1>
+      <ul>
+        <li>🔭 Je développe des projets Full-Stack (React, Node.js) et j’explore de nouvelles technos.</li>
+        <li>👯 Toujours partant pour coder ensemble sur des projets web, open-source ou défis tech !</li>
+        <li>🎓 Étudiant en alternance à la 3W Academy.</li>
+        <li>🌱 En apprentissage constant !</li>
+        <li>⚡ Je teste, je casse, je recommence… et j’apprends à chaque étape.</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img width="100%" src="https://i.imgur.com/yDUqQSO.png" alt="Bart Simpson">
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 <div align="center">
-  <a href="https://github.com/Hakim-2206">
-    <img src="https://i.imgur.com/QBXwSQQ.gif" alt="HEADER IMAGE" style="width: 80%; max-height: 150px;">
+  <h2>Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+  <p>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+    <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
+  </p>
+  <br>
+
+<h2>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hakim-2206&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs,reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakim-2206&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br>
+
+<h2>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hakim-2206&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15" alt="Contribution Graph">
+
+  <hr>
+
+<h2>🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+  <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Carmack&quote=If%20you%20aren't%20sure%20which%20way%20to%20do%20something%2C%20do%20it%20both%20ways%20and%20see%20which%20works%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Quote">
+
+<h2>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
+  <a href="mailto:hakim.hakim2206@gmail.com" target="_blank">
+    <img src="./gmail.png" width=50 height=50 alt="hakim.hakim2206@gmail.com" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.github.com/Hakim-2206" target="_blank">
+    <img src="./github.png" width=50 height=50 alt="Hakim-2206" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/hakimzaabi/" target="_blank">
+    <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <br>
+
+  <a href="https://www.buymeacoffee.com/Hakimz" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;">
+  </a>
+
+  <p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer" />
+  </p>
 </div>
-
-<div align="center">
-  <img src="https://i.imgur.com/yDUqQSO.png" alt="Homer Simpson" width="150" />
-</div>
-
-<h2 align="center">Bienvenue sur mon profil GitHub !</h2>
-
-<h3 align="center">Développeur Full-Stack | Curieux | Apprenant</h3>
-
-<br>
-
-## 🙋‍♂️ À propos de moi :
-
-*   🔭 Actuellement, je développe des projets Full-Stack (React, Node.js) et j’explore de nouvelles technos.
-*   👯 Toujours partant pour coder ensemble sur des projets web, open-source ou défis tech !
-*   🎓 Etudiant en alternance à la 3W Academy.
-*   🌱 En apprentissage constant !
-*   ⚡ Je teste, je casse, je recommence… et j’apprends à chaque étape.
-
-<br>
-
-## 🌐 Réseaux sociaux :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=%234285F4)](https://linkedin.com/in/hakimzaabi)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&color=%234285F4)](https://twitch.tv/hako_tak)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&color=%234285F4)](mailto:hakim.hakim2206@gmail.com)
-
-<br>
-
-## 💻 Tech Stack :
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=%234285F4)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%234285F4)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=%234285F4)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&color=%234285F4)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=%234285F4)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%234285F4)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=%234285F4)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34&color=%234285F4)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=%234285F4)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=%234285F4)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=%234285F4)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&color=%234285F4)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white&color=%234285F4)
-
-<br>
-
-## 📊 Statistiques GitHub :
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hakim-2206&theme=default&hide_border=false)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakim-2206&theme=default&hide_border=false&include_all_commits=false&layout=compact)
-
-<br>
-
-## ✍️ Citation aléatoire de développeur
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
