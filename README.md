@@ -9,7 +9,7 @@
   <tr>
     <td valign="top" width="60%">
       <h1>
-        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses Emoji" /> I'm Hakim!
+        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses Emoji" /> ℍ𝕚, 𝕀'𝕞 ℍ𝕒𝕜𝕚𝕞!
       </h1>
       <ul>
         <li>🔭 Je développe des projets Full-Stack (React, Node.js) et j’explore de nouvelles technos.</li>
