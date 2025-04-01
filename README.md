@@ -1,27 +1,36 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/Hakim-2206">
-    <img src="https://i.imgur.com/QBXwSQQ.gif" alt="HEADER IMAGE" width="50%" />
+    <img src="https://i.imgur.com/QBXwSQQ.gif" alt="HEADER IMAGE" style="width: 80%; max-height: 150px;">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://i.imgur.com/yDUqQSO.png" alt="Hibou" width="200" />
-</p>
-<h3 align="center">Bienvenue sur mon profil GitHub !</h3>
+<div align="center">
+  <img src="https://i.imgur.com/yDUqQSO.png" alt="Homer Simpson" width="150" />
+</div>
 
-## 💫 À propos de moi :
+<h2 align="center">Bienvenue sur mon profil GitHub !</h2>
 
-🔭 Actuellement, je développe des projets Full-Stack (React, Node.js) et j’explore de nouvelles technos.<br>
-👯 Toujours partant pour coder ensemble sur des projets web, open-source ou défis tech !<br>
-🎓 Etudiant en alternance à la 3W Academy.<br>
-🌱 En apprentissage constant !<br>
-⚡ Je teste, je casse, je recommence… et j’apprends à chaque étape.
+<h3 align="center">Développeur Full-Stack | Curieux | Apprenant</h3>
+
+<br>
+
+## 🙋‍♂️ À propos de moi :
+
+*   🔭 Actuellement, je développe des projets Full-Stack (React, Node.js) et j’explore de nouvelles technos.
+*   👯 Toujours partant pour coder ensemble sur des projets web, open-source ou défis tech !
+*   🎓 Etudiant en alternance à la 3W Academy.
+*   🌱 En apprentissage constant !
+*   ⚡ Je teste, je casse, je recommence… et j’apprends à chaque étape.
+
+<br>
 
 ## 🌐 Réseaux sociaux :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=%234285F4)](https://linkedin.com/in/hakimzaabi)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&color=%234285F4)](https://twitch.tv/hako_tak)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&color=%234285F4)](mailto:hakim.hakim2206@gmail.com)
+
+<br>
 
 ## 💻 Tech Stack :
 
@@ -39,13 +48,17 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&color=%234285F4)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white&color=%234285F4)
 
+<br>
+
 ## 📊 Statistiques GitHub :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hakim-2206&theme=default&hide_border=false)
-<br/>
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakim-2206&theme=default&hide_border=false&include_all_commits=false&layout=compact)
 
-### ✍️ Citation aléatoire de développeur
+<br>
+
+## ✍️ Citation aléatoire de développeur
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
