@@ -99,6 +99,8 @@
   </tr>
 </table>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakim-2206&theme=nightowl&hide_border=false&include_all_commits=false&layout=compact)
+
 <h2>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hakim-2206&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15" alt="Contribution Graph">
 
