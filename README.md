@@ -51,9 +51,9 @@
 <p align="center">
   <a href="https://github.com/Hakim-2206">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Hakim-2206&theme=nightowl&no-bg=true&no-frame=true&column=3&margin-w=20&margin-h=20&titles=commit,repositories,experience&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Hakim-2206&theme=nightowl&no-bg=true&no-frame=true&column=3&margin-w=20&margin-h=20&titles=commit,repositories,experience&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Hakim-2206&theme=nightowl&no-bg=true&no-frame=true&column=3&margin-w=20&margin-h=20&titles=commit,repositories,experience&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Hakim-2206&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Hakim-2206&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Hakim-2206&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
