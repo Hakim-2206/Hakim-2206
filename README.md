@@ -100,6 +100,8 @@
   </tr>
 </table>
 
+<h2>📊 Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs 📊</h2>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakim-2206&theme=nightowl&hide_border=false&include_all_commits=false&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff)
 
 <h2>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
