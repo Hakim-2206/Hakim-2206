@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://hakim-2206.github.io/portfolio">
   <img src="https://i.imgur.com/vpAawPR.png" alt="Hakim Banner Image">
+  </a>
 </p>
 <br>
 <p>
