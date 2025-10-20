@@ -16,7 +16,7 @@
       <ul>
         <li>🔭 Je développe des projets Full-Stack (React, Node.js) et j’explore de nouvelles technos.</li>
         <li>👯 Toujours partant pour coder ensemble sur des projets web, open-source ou défis tech !</li>
-        <li>🎓 Étudiant en alternance.</li>
+        <li>💼 Développeur Full Stack indépendant</li>
         <li>🌱 En apprentissage constant !</li>
         <li>⚡ Je teste, je casse, je recommence… et j’apprends à chaque étape.</li>
       </ul>
